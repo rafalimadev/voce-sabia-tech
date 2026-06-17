@@ -10,3 +10,4 @@ Estas frases são exibidas de forma dinâmica no site, apresentando fatos histó
 
 ## Como usar
 Basta baixar ou importar o arquivo `phrases.json` no seu projeto. O arquivo consiste em um array simples de strings.
+ 
